@@ -1,2 +1,2 @@
 # udemy_angular
-angular course practice
+angular course practice based on course assignments and mini-projects
